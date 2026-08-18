@@ -25,6 +25,14 @@
       "hwid": [
         "ANY"
       ]
+    },
+    "DP-GGSLJO": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2027-08-28",
+      "hwid": [
+        "22a01fca5590cf2f"
+      ]
     }
   }
 }
