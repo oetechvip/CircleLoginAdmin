@@ -25,6 +25,14 @@
       "hwid": [
         "ANY"
       ]
+    },
+    "OE-VIP01": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2099-08-18",
+      "hwid": [
+        "22a01fca5590cf2f"
+      ]
     }
   }
 }
