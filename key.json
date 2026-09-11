@@ -4,7 +4,7 @@
     "subtitle": "Salin ID Perangkat dan kirim ke Admin.",
     "admin_url": "https://wa.me/+6281258668851",
     "banner_url": "https://lh3.googleusercontent.com/pw/AP1GczPu4OabpgcjFcc5gT724CxBSBX0T5OUv9bFijAcDrDIv8d9XuiNkJjKxmQpAGlBf3ZQNPCEmSgcQLcpIU4Qd2TeLmD7jA1zzB2HJbd-LzBO8_-eoHhylY9gUhp6OUH9l7NhGz3k1hwVdmtwh_ikB0Xs=w1079-h1079-s-no-gm?authuser=0",
-    "maintenance": false,
+    "maintenance": true,
     "banned_devices": [
       "hacker_hwid_1",
       "spammer_hwid_2"
