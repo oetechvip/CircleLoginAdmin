@@ -14,7 +14,10 @@
     "DP-VIP-101": {
       "status": "approved",
       "expiry_date": "2026-12-31",
-      "hwid": []
+      "hwid": [
+        "22a01fca5590cf2f"
+      ],
+      "max_devices": 1
     },
     "DP-UNIVERSAL": {
       "status": "approved",
