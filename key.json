@@ -13,9 +13,11 @@
   "keys": {
     "F1LMBOXBY0EM0DS": {
       "status": "approved",
-      "max_devices": 6,
+      "max_devices": 5,
       "expiry_date": "2026-10-31",
-      "hwid": []
+      "hwid": [
+        "3afb1c8b255d8f76"
+      ]
     }
   }
 }
