@@ -18,6 +18,14 @@
       "hwid": [
         "3afb1c8b255d8f76"
       ]
+    },
+    "CL1PB0X": {
+      "status": "approved",
+      "max_devices": 3,
+      "expiry_date": "2050-10-21",
+      "hwid": [
+        "b1278ce923c18017"
+      ]
     }
   }
 }
